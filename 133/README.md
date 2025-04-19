@@ -1,6 +1,6 @@
 # 133. Clone Graph
 
-O arquivo [133.py](./133/133.py) conta com a resolução da questão 133 na plataforma LeetCode.
+O arquivo [133.py](/133/133.py) conta com a resolução da questão 133 na plataforma LeetCode.
 
 A resolução foi aceita pela plataforma, de acordo com a imagem anexada:
 <center>
